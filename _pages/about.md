@@ -6,7 +6,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-#![Robot saying hello](/images/VT.png) {: .align-right width="300px"}
+![Robot saying hello](/
+images/VT.png) {: .align-right width="300px"}
 
 
 
@@ -15,7 +16,14 @@ redirect_from:
 
 
 Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+![Editing a markdown file for a talk](/
+images/editing-talk.png)
+
+
+
+
+
+
 <!-- {: .align-right width="300px"} -->
 <div style="text-align: justify;">
 🤖 I am an Automation developer with a passion for turning data into insights and manual tasks into effortless workflows.
