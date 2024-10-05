@@ -19,7 +19,8 @@ redirect_from:
 
 
 
-![Robot saying hello](/images/robot.png)
+Example: editing a markdown file for a talk
+![Editing a markdown file for a talk](/images/editing-talk.png)
 <!-- {: .align-right width="300px"} -->
 
 🤖 I am an Automation developer with a passion for turning data into insights and manual tasks into effortless workflows.
