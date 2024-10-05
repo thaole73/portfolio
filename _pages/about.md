@@ -6,9 +6,17 @@ redirect_from:
   - /about/
   - /about.html
 ---
+#![Robot saying hello](/images/VT.png) {: .align-right width="300px"}
 
-<img src="https://thaole73.github.io/portfolio/images/VT.png" alt="Robot saying hello" style="width:300px; float:right; margin-left:20px;">
 
+
+
+
+
+
+Example: editing a markdown file for a talk
+![Editing a markdown file for a talk](/images/editing-talk.png)
+<!-- {: .align-right width="300px"} -->
 <div style="text-align: justify;">
 🤖 I am an Automation developer with a passion for turning data into insights and manual tasks into effortless workflows.
 
@@ -20,9 +28,7 @@ redirect_from:
 
 🛠️ My toolkit: Power Automate, UiPath, Python, SQL, VBA.
 </div>
-
 ### 📫 Get in Touch
-
 
 
 <!-- 
