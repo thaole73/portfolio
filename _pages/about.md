@@ -1,7 +1,6 @@
 ---
 permalink: /
 title: "👋Hello there, I'm Thao. Welcome to My Data Playground 🎡"
-"
 author_profile: true
 redirect_from: 
   - /about/
