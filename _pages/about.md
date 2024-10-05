@@ -6,8 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-![Robot saying hello](/
-images/VT.png) {: .align-right width="300px"}
+![Robot saying hello](VT.png)
 
 
 
@@ -27,15 +26,17 @@ images/editing-talk.png)
 <!-- {: .align-right width="300px"} -->
 <div style="text-align: justify;">
 🤖 I am an Automation developer with a passion for turning data into insights and manual tasks into effortless workflows.
-
+</div>
+<div style="text-align: justify;">
 💡 I love tackling complex business problems by blending RPA (Robotic Process Automation) with data-driven strategies. I'm passionate about uncovering hidden patterns in data and turning raw numbers into meaningful, actionable insights.
-
+</div>
+<div style="text-align: justify;">
 🌟 I'm currently working on enhancing business processes through RPA and exploring applications of machine learning.
-
+</div>
 🎓 I'm also interested in assisting others on their data science learning journey and sharing knowledge in the field.
 
 🛠️ My toolkit: Power Automate, UiPath, Python, SQL, VBA.
-</div>
+
 ### 📫 Get in Touch
 
 
