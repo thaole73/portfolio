@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Thao Le's Homepage"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name ""
 description              : &description "personal description"
@@ -24,9 +24,9 @@ author:
   avatar           : "VT.png"
   name             : "Thao Le"
   pronouns         : "She/Her"  
-  bio              : "Data Analysis|Automation|Machine Learning"
+  bio              : "Data Analysis | Automation | Machine Learning"
   location         : "Sandefjord,Norway"
-  employer         : "Jotun A/S"
+  employer         : "MSc in Economics and Business Administration - Specialization: Business Analytics at Norwegian School of Economics"
   uri              : # URL
   email            : #"" 
 
@@ -57,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "thao-l-549b921a2"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -116,7 +116,7 @@ staticman:
       options:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
-  hide                   : false     # change to true to hide the RSS feed in the footer
+  hide                   : true     # change to true to hide the RSS feed in the footer
   path                   : # blank (default) uses feed.xml
 
 

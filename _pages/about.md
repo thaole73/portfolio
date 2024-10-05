@@ -1,17 +1,16 @@
 ---
 permalink: /
 title: "👋Hello there, I'm Thao. Welcome to My Data Playground 🎡"
-"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-![Robot saying hello](/images/robot.jpg){: .align-right width="300px"}
+![Robot saying hello](/images/VT.png){: .align-right width="300px"}
 
 🤖 I am an RPA (Robotic Process Automation) developer with a passion for turning data into insights and manual tasks into effortless workflows.
 
-💡 I love solving complex business problems by blending automation with data-driven strategies. I'm passionate about data analysis, uncovering hidden patterns, and transforming raw numbers into actionable insights.
+💡 I love tackling complex business problems by blending automation with data-driven strategies. I'm passionate about uncovering hidden patterns in data and turning raw numbers into meaningful, actionable insights.
 
 🌟 I'm currently working on enhancing business processes through RPA and exploring applications of machine learning.
 
@@ -20,6 +19,7 @@ redirect_from:
 🛠️ My toolkit: Power Automate, UiPath, Python, SQL, VBA.
 
 ### 📫 Get in Touch
+
 
 <!-- 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
