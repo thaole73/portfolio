@@ -6,8 +6,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
-"Short description of portfolio item number 1<br/><img src='/images/robot.png'>"
+======
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/VT.png'>"
 
+
+
+======
 
 
 
