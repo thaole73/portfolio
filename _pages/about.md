@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-![Robot saying hello](/images/robot.jpg){: .align-right width="300px"}
+![Robot saying hello](/images/robot.png){: .align-right width="300px"}
 
 🤖 I am an RPA (Robotic Process Automation) developer with a passion for turning data into insights and manual tasks into effortless workflows.
 
