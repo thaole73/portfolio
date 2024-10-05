@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-![Robot saying hello](VT.png)
+"Short description of portfolio item number 1<br/><img src='/images/robot.png'>"
 
 
 
